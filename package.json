@@ -12,10 +12,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/u2berggeist/ANSYS_CFX"
+        "url": "https://github.com/moelfus/ANSYS_CFX"
     },
     "author": {
-        "name": "u2berggeist"
+        "name": "Moelfus"
     },
     "contributes": {
         "languages": [
@@ -28,6 +28,7 @@
                 ],
                 "extensions": [
                     ".ccl",
+                    ".cse",
                     ".cst"
                 ],
                 "configuration": "./language-configuration.json"
